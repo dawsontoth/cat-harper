@@ -5,7 +5,8 @@
 	"type": "module",
 	"scripts": {
 		"run": "harperdb run",
-		"dev": "harperdb dev ."
+		"dev": "harperdb dev .",
+		"seed": "node seed/cats.js"
 	},
 	"devDependencies": {
 		"harperdb": "^4.5.7"

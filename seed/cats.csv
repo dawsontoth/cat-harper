@@ -1,0 +1,101 @@
+name,breed,coloring,dietaryRestrictions,immunizationStatus,personality,birthdate,microchipped,neuteredOrSpayed,favoriteToy,preferredNapSpot,indoorOrOutdoor
+Whiskers,Sphynx,Tabby,Grain-Free,Up to Date,Gentle,2023-10-27,Yes,No,Treat Puzzle,Sunny Window,Indoor
+Luna,Abyssinian,Tabby,Vegetarian (specialized diet),Needs FVRCP,Gentle,2012-12-08,No,No,Cardboard Box,On a Pillow,Indoor
+Milo,Persian,Tuxedo,Fish-Only,Fully Unvaccinated,Energetic,2022-12-17,No,No,Feather Wand,Under the Bed,Outdoor
+Oliver,Abyssinian,Solid White,Grain-Free,Fully Unvaccinated,Curious,2022-05-29,Yes,No,Treat Puzzle,Warm Laptop,Indoor/Outdoor Hybrid
+Chloe,Sphynx,Grey and White,Vegetarian (specialized diet),Fully Unvaccinated,Affectionate,2024-01-20,No,No,Laser Pointer,Near a Heater,Outdoor
+Simba,Scottish Fold,Solid White,None,Needs FVRCP,Lazy,2023-07-16,Yes,Yes,Treat Puzzle,Under the Bed,Outdoor
+Bella,Sphynx,Grey and White,Vegetarian (specialized diet),Needs FVRCP,Playful,2015-09-14,No,No,Rope Toy,Cat Tree,Indoor
+Leo,Siamese,Orange Tabby,Fish-Only,Up to Date,Curious,2013-12-19,Yes,No,Treat Puzzle,Near a Heater,Indoor/Outdoor Hybrid
+Lily,Bengal,Blue Point,Fish-Only,Needs Rabies,Energetic,2013-08-18,No,Yes,Laser Pointer,Laundry Basket,Outdoor
+Charlie,Sphynx,Blue Point,Chicken-Free,Up to Date,Energetic,2013-11-02,Yes,Yes,Treat Puzzle,Laundry Basket,Outdoor
+Nala,Scottish Fold,Solid Black,Chicken-Free,Up to Date,Independent,2010-11-22,No,Yes,Treat Puzzle,Top of Couch,Outdoor
+Socks,Siamese,Brown and Cream,Vegetarian (specialized diet),Needs Rabies,Independent,2016-01-02,No,Yes,Crinkly Tunnel,Owner's Lap,Indoor
+Ginger,Siamese,Tabby,Fish-Only,Needs Rabies,Lazy,2021-02-20,No,Yes,Soft Plushie,In a Closet,Indoor
+Mochi,Maine Coon,Tuxedo,Vegetarian (specialized diet),Needs Rabies,Curious,2022-06-10,No,Yes,Soft Plushie,Near a Heater,Outdoor
+Ziggy,British Shorthair,Solid Black,None,Needs FVRCP,Shy,2024-07-01,Yes,No,Rope Toy,Warm Laptop,Outdoor
+Misty,British Shorthair,Orange Tabby,None,Needs Rabies,Gentle,2022-01-19,No,Yes,Ball with Bell,Sunny Window,Indoor/Outdoor Hybrid
+Pumpkin,British Shorthair,Blue Point,Chicken-Free,Needs FVRCP,Affectionate,2016-01-11,No,Yes,Cardboard Box,Cat Tree,Indoor
+Toby,Ragdoll,Orange Tabby,None,Needs FVRCP,Affectionate,2017-05-28,No,Yes,Crinkly Tunnel,Laundry Basket,Indoor
+Cleo,American Shorthair,Calico,Chicken-Free,Needs Rabies,Playful,2019-08-17,No,Yes,Laser Pointer,Under the Bed,Outdoor
+Bandit,Sphynx,Tabby,Grain-Free,Up to Date,Gentle,2011-06-04,No,No,Cardboard Box,In a Closet,Indoor/Outdoor Hybrid
+Shadow,British Shorthair,Blue Point,Chicken-Free,Fully Unvaccinated,Playful,2019-12-20,Yes,No,Ball with Bell,Cat Tree,Indoor/Outdoor Hybrid
+Tiger,Persian,Brown and Cream,None,Needs Rabies,Lazy,2018-07-23,Yes,Yes,Scratching Post,Cat Tree,Outdoor
+Salem,Persian,Blue Point,Vegetarian (specialized diet),Needs Rabies,Shy,2021-09-23,No,No,Crinkly Tunnel,Laundry Basket,Indoor/Outdoor Hybrid
+Penny,Abyssinian,Calico,Vegetarian (specialized diet),Fully Unvaccinated,Independent,2021-07-03,Yes,No,Scratching Post,Near a Heater,Indoor
+Midnight,Maine Coon,Orange Tabby,Fish-Only,Needs FVRCP,Curious,2018-09-27,Yes,Yes,Catnip Mouse,Near a Heater,Outdoor
+Peanut,Siamese,Tuxedo,Chicken-Free,Needs FVRCP,Playful,2021-03-20,No,Yes,Catnip Mouse,Owner's Lap,Outdoor
+Snowball,Abyssinian,Orange Tabby,Grain-Free,Fully Unvaccinated,Bossy,2012-01-28,No,No,Catnip Mouse,Near a Heater,Indoor/Outdoor Hybrid
+Poppy,Persian,Blue Point,Vegetarian (specialized diet),Up to Date,Affectionate,2021-07-29,Yes,Yes,Laser Pointer,Laundry Basket,Indoor
+Bear,Sphynx,Solid White,Fish-Only,Needs FVRCP,Bossy,2011-07-26,Yes,No,Ball with Bell,Cat Tree,Outdoor
+Oreo,Sphynx,Grey and White,Vegetarian (specialized diet),Fully Unvaccinated,Gentle,2013-04-16,No,Yes,Soft Plushie,Under the Bed,Outdoor
+Boots,American Shorthair,Tabby,Grain-Free,Needs Rabies,Energetic,2024-08-17,Yes,Yes,Catnip Mouse,On a Pillow,Indoor/Outdoor Hybrid
+Casper,American Shorthair,Tuxedo,Fish-Only,Fully Unvaccinated,Vocal,2011-05-02,Yes,Yes,Laser Pointer,Under the Bed,Outdoor
+Pepper,Abyssinian,Orange Tabby,Grain-Free,Needs FVRCP,Shy,2014-01-19,No,Yes,Scratching Post,Cat Tree,Outdoor
+Willow,Scottish Fold,Solid White,Fish-Only,Up to Date,Independent,2018-02-16,No,No,Feather Wand,Near a Heater,Indoor
+Daisy,British Shorthair,Tabby,Chicken-Free,Up to Date,Curious,2021-03-25,Yes,No,Ball with Bell,Top of Couch,Indoor/Outdoor Hybrid
+Sammy,Ragdoll,Orange Tabby,Chicken-Free,Fully Unvaccinated,Shy,2017-05-05,Yes,Yes,Soft Plushie,In a Closet,Indoor/Outdoor Hybrid
+Scout,Ragdoll,Tuxedo,Chicken-Free,Needs Rabies,Playful,2022-09-17,No,Yes,Catnip Mouse,In a Closet,Outdoor
+Jasper,British Shorthair,Calico,Fish-Only,Needs Rabies,Affectionate,2012-02-28,No,No,Soft Plushie,In a Closet,Indoor
+Olive,Ragdoll,Seal Point,Fish-Only,Up to Date,Curious,2012-12-12,Yes,No,Ball with Bell,Laundry Basket,Outdoor
+Zoe,Sphynx,Seal Point,Grain-Free,Fully Unvaccinated,Playful,2020-07-12,No,Yes,Scratching Post,In a Closet,Outdoor
+Cinnamon,Ragdoll,Grey and White,None,Needs FVRCP,Shy,2023-01-01,No,No,Ball with Bell,Sunny Window,Indoor
+Muffin,Bengal,Solid Black,Vegetarian (specialized diet),Up to Date,Independent,2024-02-03,No,No,Cardboard Box,Sunny Window,Indoor
+Smokey,Maine Coon,Grey and White,Grain-Free,Fully Unvaccinated,Energetic,2013-03-27,Yes,Yes,Soft Plushie,Sunny Window,Outdoor
+Marshmallow,British Shorthair,Grey and White,Fish-Only,Up to Date,Shy,2010-09-24,Yes,No,Scratching Post,Top of Couch,Indoor
+Buttons,Siamese,Grey and White,Vegetarian (specialized diet),Needs FVRCP,Playful,2016-10-21,No,No,Cardboard Box,Warm Laptop,Indoor/Outdoor Hybrid
+Rusty,Sphynx,Tuxedo,Chicken-Free,Needs FVRCP,Lazy,2023-04-19,No,Yes,Cardboard Box,Cat Tree,Indoor
+Hazel,British Shorthair,Tuxedo,Fish-Only,Needs FVRCP,Playful,2019-09-05,Yes,Yes,Cardboard Box,In a Closet,Outdoor
+Frankie,Persian,Solid White,Chicken-Free,Fully Unvaccinated,Lazy,2011-06-05,No,Yes,Ball with Bell,In a Closet,Indoor
+Maple,Sphynx,Tuxedo,None,Needs Rabies,Gentle,2014-11-14,No,Yes,Catnip Mouse,Top of Couch,Indoor
+Raven,Abyssinian,Seal Point,None,Needs Rabies,Bossy,2023-08-07,No,Yes,Scratching Post,Top of Couch,Outdoor
+Sunny,Scottish Fold,Tuxedo,Grain-Free,Needs FVRCP,Gentle,2012-01-29,Yes,Yes,Cardboard Box,Cat Tree,Outdoor
+Velvet,Abyssinian,Calico,Vegetarian (specialized diet),Needs Rabies,Playful,2017-12-12,Yes,No,Feather Wand,On a Pillow,Indoor/Outdoor Hybrid
+Tigger,British Shorthair,Blue Point,Chicken-Free,Needs Rabies,Independent,2013-04-23,Yes,No,Catnip Mouse,Warm Laptop,Indoor/Outdoor Hybrid
+Cricket,Bengal,Grey and White,Fish-Only,Needs FVRCP,Playful,2018-04-04,Yes,Yes,Crinkly Tunnel,Owner's Lap,Indoor
+Cupcake,Scottish Fold,Solid Black,Fish-Only,Needs Rabies,Lazy,2022-08-03,Yes,No,Ball with Bell,Near a Heater,Outdoor
+Stormy,British Shorthair,Calico,Vegetarian (specialized diet),Needs FVRCP,Shy,2017-12-09,No,Yes,Scratching Post,Near a Heater,Indoor
+Basil,Persian,Solid Black,Vegetarian (specialized diet),Up to Date,Energetic,2017-12-15,Yes,No,Scratching Post,Sunny Window,Indoor/Outdoor Hybrid
+Pixie,Ragdoll,Solid Black,Grain-Free,Up to Date,Gentle,2018-11-06,No,Yes,Cardboard Box,In a Closet,Indoor/Outdoor Hybrid
+Mango,American Shorthair,Seal Point,Fish-Only,Up to Date,Bossy,2024-09-14,No,No,Cardboard Box,Under the Bed,Indoor
+Pistachio,Maine Coon,Blue Point,Vegetarian (specialized diet),Up to Date,Curious,2024-04-11,Yes,Yes,Scratching Post,Under the Bed,Indoor/Outdoor Hybrid
+River,Scottish Fold,Grey and White,Grain-Free,Fully Unvaccinated,Vocal,2023-04-03,No,Yes,Rope Toy,Under the Bed,Outdoor
+Sage,Abyssinian,Blue Point,Vegetarian (specialized diet),Up to Date,Vocal,2024-03-02,Yes,Yes,Scratching Post,Warm Laptop,Outdoor
+Cosmo,Sphynx,Tuxedo,Vegetarian (specialized diet),Fully Unvaccinated,Affectionate,2013-06-19,No,No,Catnip Mouse,Under the Bed,Indoor/Outdoor Hybrid
+Pebbles,American Shorthair,Brown and Cream,Vegetarian (specialized diet),Needs FVRCP,Affectionate,2024-02-04,Yes,No,Rope Toy,In a Closet,Indoor/Outdoor Hybrid
+Puma,Scottish Fold,Solid Black,Chicken-Free,Up to Date,Bossy,2016-06-26,No,Yes,Catnip Mouse,Warm Laptop,Outdoor
+Echo,Abyssinian,Calico,Grain-Free,Fully Unvaccinated,Playful,2012-05-16,Yes,No,Rope Toy,Sunny Window,Outdoor
+Blu,Abyssinian,Seal Point,Vegetarian (specialized diet),Up to Date,Playful,2010-08-21,Yes,Yes,Ball with Bell,Top of Couch,Indoor
+Snickers,Abyssinian,Tuxedo,Grain-Free,Needs Rabies,Energetic,2016-03-23,No,Yes,Laser Pointer,Near a Heater,Outdoor
+Misty,Bengal,Tuxedo,None,Fully Unvaccinated,Gentle,2013-08-15,No,No,Cardboard Box,Cat Tree,Indoor/Outdoor Hybrid
+Kiki,Maine Coon,Orange Tabby,Vegetarian (specialized diet),Needs Rabies,Playful,2011-09-10,No,No,Cardboard Box,Top of Couch,Indoor
+Zephyr,Persian,Tuxedo,Vegetarian (specialized diet),Up to Date,Independent,2018-06-13,Yes,Yes,Catnip Mouse,Owner's Lap,Indoor
+Frost,Siamese,Tabby,Chicken-Free,Fully Unvaccinated,Shy,2020-07-15,No,Yes,Soft Plushie,In a Closet,Indoor
+Gizmo,Abyssinian,Tabby,Vegetarian (specialized diet),Up to Date,Energetic,2010-07-08,No,Yes,Laser Pointer,Laundry Basket,Indoor/Outdoor Hybrid
+Fudge,American Shorthair,Blue Point,Grain-Free,Needs FVRCP,Vocal,2011-09-14,Yes,Yes,Crinkly Tunnel,Sunny Window,Indoor/Outdoor Hybrid
+Licorice,British Shorthair,Calico,Fish-Only,Needs FVRCP,Affectionate,2021-06-28,Yes,No,Scratching Post,Cat Tree,Indoor/Outdoor Hybrid
+Bubbles,American Shorthair,Grey and White,Chicken-Free,Fully Unvaccinated,Gentle,2014-06-08,No,No,Rope Toy,Warm Laptop,Indoor
+Toffee,Maine Coon,Solid Black,Chicken-Free,Up to Date,Independent,2014-06-15,No,Yes,Ball with Bell,Owner's Lap,Outdoor
+Clove,Bengal,Blue Point,Grain-Free,Fully Unvaccinated,Affectionate,2022-01-23,Yes,Yes,Cardboard Box,Under the Bed,Outdoor
+Ash,American Shorthair,Solid Black,None,Up to Date,Lazy,2016-07-27,Yes,Yes,Feather Wand,Owner's Lap,Indoor
+Pumpkin,Bengal,Tuxedo,Grain-Free,Up to Date,Independent,2010-08-13,Yes,Yes,Feather Wand,On a Pillow,Indoor
+Fiona,Sphynx,Calico,Grain-Free,Up to Date,Gentle,2013-02-16,Yes,No,Treat Puzzle,Top of Couch,Indoor
+Penny,Abyssinian,Tuxedo,Chicken-Free,Needs Rabies,Bossy,2014-05-31,No,Yes,Crinkly Tunnel,Under the Bed,Outdoor
+Harley,Scottish Fold,Grey and White,None,Needs FVRCP,Independent,2022-09-01,No,No,Crinkly Tunnel,Near a Heater,Outdoor
+Mittens,American Shorthair,Tuxedo,None,Up to Date,Energetic,2013-12-08,No,Yes,Crinkly Tunnel,Warm Laptop,Indoor
+Freckles,Sphynx,Grey and White,Grain-Free,Needs FVRCP,Affectionate,2021-10-08,Yes,Yes,Cardboard Box,Sunny Window,Indoor/Outdoor Hybrid
+Nimbus,British Shorthair,Tabby,Fish-Only,Fully Unvaccinated,Affectionate,2016-01-17,Yes,Yes,Treat Puzzle,Under the Bed,Indoor
+Marble,Abyssinian,Solid White,Vegetarian (specialized diet),Needs Rabies,Affectionate,2012-05-27,No,Yes,Crinkly Tunnel,Laundry Basket,Indoor
+Twilight,Persian,Grey and White,Chicken-Free,Needs FVRCP,Vocal,2023-02-24,Yes,No,Soft Plushie,Sunny Window,Indoor
+Mocha,British Shorthair,Solid Black,Vegetarian (specialized diet),Needs Rabies,Vocal,2017-06-17,No,Yes,Catnip Mouse,Warm Laptop,Indoor/Outdoor Hybrid
+Piper,British Shorthair,Seal Point,Fish-Only,Up to Date,Playful,2011-03-08,Yes,No,Catnip Mouse,Under the Bed,Indoor/Outdoor Hybrid
+Clover,Sphynx,Seal Point,Chicken-Free,Fully Unvaccinated,Bossy,2023-02-01,No,Yes,Catnip Mouse,Cat Tree,Indoor/Outdoor Hybrid
+Fig,Sphynx,Brown and Cream,Grain-Free,Up to Date,Curious,2022-09-09,No,No,Feather Wand,Cat Tree,Indoor/Outdoor Hybrid
+Nutmeg,Abyssinian,Tuxedo,Vegetarian (specialized diet),Fully Unvaccinated,Playful,2018-06-16,Yes,Yes,Ball with Bell,Sunny Window,Indoor/Outdoor Hybrid
+Sprout,Abyssinian,Brown and Cream,Chicken-Free,Needs Rabies,Lazy,2010-08-21,No,Yes,Feather Wand,Laundry Basket,Indoor
+Drizzle,Siamese,Tabby,Vegetarian (specialized diet),Fully Unvaccinated,Lazy,2015-01-11,No,No,Soft Plushie,Owner's Lap,Indoor
+Soot,Bengal,Solid White,None,Up to Date,Bossy,2019-06-12,No,Yes,Laser Pointer,Top of Couch,Indoor/Outdoor Hybrid
+Taffy,British Shorthair,Solid Black,None,Up to Date,Energetic,2020-08-09,No,No,Scratching Post,Laundry Basket,Indoor
+Bruno,Bengal,Tabby,None,Fully Unvaccinated,Curious,2017-01-05,Yes,No,Catnip Mouse,Cat Tree,Indoor/Outdoor Hybrid
+Fluffy,Abyssinian,Calico,Fish-Only,Needs FVRCP,Curious,2012-04-03,No,No,Treat Puzzle,In a Closet,Indoor/Outdoor Hybrid
+Puddles,British Shorthair,Brown and Cream,Fish-Only,Fully Unvaccinated,Energetic,2021-10-25,Yes,No,Feather Wand,On a Pillow,Indoor
