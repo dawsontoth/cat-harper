@@ -1,0 +1,15 @@
+type cat @table @export {
+    id: ID @primaryKey
+    name: String @indexed
+    breed: String @indexed
+    coloring: String
+    dietaryRestrictions: String
+    immunizationStatus: String
+    personality: String
+    birthdate: String
+    microchipped: String
+    neuteredOrSpayed: String
+    favoriteToy: String
+    preferredNapSpot: String
+    indoorOrOutdoor: String
+}

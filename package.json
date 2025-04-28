@@ -1,0 +1,13 @@
+{
+	"name": "application-template",
+	"version": "1.0.0",
+	"description": "A template for building HarperDB applications",
+	"type": "module",
+	"scripts": {
+		"run": "harperdb run",
+		"dev": "harperdb dev ."
+	},
+	"devDependencies": {
+		"harperdb": "^4.5.7"
+	}
+}
