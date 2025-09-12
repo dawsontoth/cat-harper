@@ -1,14 +1,16 @@
 {
-	"name": "application-template",
-	"version": "1.0.0",
-	"description": "A template for building HarperDB applications",
-	"type": "module",
-	"scripts": {
-		"run": "harperdb run",
-		"dev": "harperdb dev .",
-		"seed": "node seed/cats.js"
-	},
-	"devDependencies": {
-		"harperdb": "^4.5.7"
-	}
+  "name": "application-template",
+  "version": "1.0.0",
+  "description": "A template for building HarperDB applications",
+  "type": "module",
+  "scripts": {
+    "run": "dotenv -- harperdb run",
+    "dev": "dotenv -- harperdb dev .",
+    "seed": "node seed/cats.js"
+  },
+  "dependencies": {
+    "harperdb": "^4.7.0-alpha.7",
+    "dotenv": "^17.2.2",
+    "dotenv-cli": "^10.0.0"
+  }
 }

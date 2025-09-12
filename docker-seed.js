@@ -24,10 +24,16 @@ async function seedCats() {
 
 async function postCat(cat) {
   try {
-    const response = await fetch('http://localhost:9962/cat/', {
+    // Use environment variables or defaults for connection details
+    const host = process.env.HARPERDB_HOST || 'localhost';
+    const port = process.env.HARPERDB_PORT || '9962';
+    const username = process.env.HARPERDB_USERNAME || 'admin';
+    const password = process.env.HARPERDB_PASSWORD || 'password';
+
+    const response = await fetch(`http://${host}:${port}/cat/`, {
       method: 'POST',
       headers: {
-        Authorization: 'Basic ' + Buffer.from(`dawsontoth:unicorn liqueur abi deleted`).toString('base64'),
+        Authorization: 'Basic ' + Buffer.from(`${username}:${password}`).toString('base64'),
         'Content-Type': 'application/json',
       },
       body: JSON.stringify(cat),
@@ -65,4 +71,3 @@ function parseCSV(csvContent) {
       return cat;
     });
 }
-
